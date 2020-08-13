@@ -30,3 +30,6 @@ build/
 nbbuild/ 
 ist/
 nbdist/
+
+# Eclipse
+.settings/
